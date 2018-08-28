@@ -16,7 +16,7 @@ public class ClientService {
 
 	        HelloWorld hello = service.getPort(HelloWorld.class);
 
-	        System.out.println(hello.getHelloWorldAsString("mkyong"));
+	        System.out.println(hello.getHelloWorldAsString("mkmyong"));
 
 	    }
 }
